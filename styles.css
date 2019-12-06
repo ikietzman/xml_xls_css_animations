@@ -1,0 +1,129 @@
+* {
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  padding-top: 1em;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+.header {
+  text-align: center;
+}
+.logo {
+  width: 350px;
+  animation-name: spinner;
+  animation-duration: 2s;
+  animation-timing-function: ease-out;
+}
+
+.faculty {
+  text-align: center;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.person {
+  display: inline-block;
+  width: 350px;
+  border: solid 3px #231f20;
+  margin: 0.5em;
+  background: #d1202f;
+  color: #ffffff;
+  opacity: 0;
+  animation-name: person_div_fade_in;
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-fill-mode: forwards;
+}
+.person:hover {
+  background: #231f20;
+  border-color: #d1202f;
+}
+.person a {
+  display: block;
+  padding: 0.5em;
+  color: #d1202f;
+  text-decoration: none;
+  animation-name: person_content_fade_in;
+  animation-duration: 2s;
+  /* animation-delay: 2s; */
+  animation-fill-mode: forwards;
+}
+.person:nth-of-type(1) a {
+  animation-delay: 4s;
+}
+.person:nth-of-type(2) a {
+  animation-delay: 4.2s;
+}
+.person:nth-of-type(3) a {
+  animation-delay: 4.4s;
+}
+.person:nth-of-type(4) a {
+  animation-delay: 4.6s;
+}
+.person:nth-of-type(5) a {
+  animation-delay: 4.8s;
+}
+.person:nth-of-type(6) a {
+  animation-delay: 5s;
+}
+.person:nth-of-type(7) a {
+  animation-delay: 5.2s;
+}
+.person:nth-of-type(8) a {
+  animation-delay: 5.4s;
+}
+.person:nth-of-type(9) a {
+  animation-delay: 5.6s;
+}
+.person:nth-of-type(10) a {
+  animation-delay: 5.8s;
+}
+.person:nth-of-type(11) a {
+  animation-delay: 6s;
+}
+.person:nth-of-type(12) a {
+  animation-delay: 6.2s;
+}
+.person:nth-of-type(13) a {
+  animation-delay: 6.4s;
+}
+.person:nth-of-type(14) a {
+  animation-delay: 6.6s;
+}
+.person:nth-of-type(15) a {
+  animation-delay: 6.8s;
+}
+.name {
+  font-weight: bold;
+  font-size: 1.25em;
+}
+
+/* red: d1202f
+  black: 231f20
+  white: ffffff
+
+*/
+
+@keyframes person_div_fade_in {
+  from {opacity: 0;}
+  to {opacity: 1;}
+}
+@keyframes person_content_fade_in {
+  from {color: #d1202f;}
+  to {color: #ffffff;}
+}
+@keyframes spinner {
+  0% {transform: rotateY(0deg)}
+  1.58% {transform: rotateY(180deg)}
+  2.49% {transform: rotateY(0deg)}
+  3.94% {transform: rotateY(180deg)}
+  6.23% {transform: rotateY(0deg)}
+  9.85% {transform: rotateY(180deg)}
+  15.56% {transform: rotateY(0deg)}
+  24.58% {transform: rotateY(180deg)}
+  38.84% {transform: rotateY(0deg)}
+  61.36% {transform: rotateY(180deg)}
+  96.96% {transform: rotateY(0deg)}
+}

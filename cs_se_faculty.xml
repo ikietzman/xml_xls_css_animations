@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.tallgrassschool.com/admin/ucm_rfp/cs_se_faculty.xsl"?>
+<document>
+  <heading>UCMO Computer Science and Software Engineering Faculty</heading>
+  <faculty>
+    <person>
+      <name>
+        <title></title>
+        <first>Belinda</first>
+        <last>Copus</last>
+      </name>
+      <title>	Assistant Professor, Program Coordinator</title>
+      <contact>
+        <phone>660-543-4354</phone>
+        <office>WCM 206C</office>
+        <email>copus@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/belinda-copus/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Hang</first>
+        <last>Chen</last>
+      </name>
+      <title>Professor</title>
+      <contact>
+        <phone>660-543-8907</phone>
+        <office>WCM 205C</office>
+        <email>hchen@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science/faculty/hang-chen/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Mark</first>
+        <last>Grebe</last>
+      </name>
+      <title>	Assistant Professor, GSSP-JAVA</title>
+      <contact>
+        <phone>660-543-8846</phone>
+        <office>WCM 213</office>
+        <email>grebe@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/mark-grebe/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Taeghyun</first>
+        <last>Kang</last>
+      </name>
+      <title>Assistant Professor</title>
+      <contact>
+        <phone>660-543-8896</phone>
+        <office>WCM 219</office>
+        <email>tkang@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/taeghyun-kang/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Yui Man</first>
+        <last>Lui</last>
+      </name>
+      <title>Assistant Professor</title>
+      <contact>
+        <phone>660-543-8721</phone>
+        <office>WCM 119</office>
+        <email>lui@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/yui-man-lui/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title></title>
+        <first>Ikhyun</first>
+        <last>Park</last>
+      </name>
+      <title>Instructor</title>
+      <contact>
+        <phone>660-543-8851</phone>
+        <office>WCM 221</office>
+        <email>ipark@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/ikhyun-park/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Ahmad</first>
+        <last>Rawashdeh</last>
+      </name>
+      <title>	Assistant Professor</title>
+      <contact>
+        <phone>660-543-6623</phone>
+        <office>MIC D162</office>
+        <email>arawashdeh@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science/faculty/ahmad-rawashdeh/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Mohammad</first>
+        <last>Rawashdeh</last>
+      </name>
+      <title>Assistant Professor</title>
+      <contact>
+        <phone>660-543-6613</phone>
+        <office>MIC D158</office>
+        <email>rawashdeh@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science/faculty/mohammad-rawashdeh/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Md Farhadur</first>
+        <last>Reza</last>
+      </name>
+      <title>Assistant Professor</title>
+      <contact>
+        <phone>660-543-6629</phone>
+        <office>MIC D160</office>
+        <email>reza@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/md-farhadur-reza/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Sunae</first>
+        <last>Shin</last>
+      </name>
+      <title>Assistant Professor</title>
+      <contact>
+        <phone>660-543-6612</phone>
+        <office>MIC D159</office>
+        <email>MIC D159</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-cybersecurity/faculty/sunae-shin/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Songlin</first>
+        <last>Tian</last>
+      </name>
+      <title>Professor</title>
+      <contact>
+        <phone>660-543-8884</phone>
+        <office>WCM 215</office>
+        <email>tian@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science/faculty/songlin-tian/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Jun</first>
+        <last>Wang</last>
+      </name>
+      <title>Assistant Professor, GWAPT</title>
+      <contact>
+        <phone>660-543-8822</phone>
+        <office>WCM 116L</office>
+        <email>jwang@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-cybersecurity/faculty/jun-wang/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Mahmoud</first>
+        <last>Yousef</last>
+      </name>
+      <title>Professor, Assistant Chair</title>
+      <contact>
+        <phone>660-543-8892</phone>
+        <office>WCM 217</office>
+        <email>yousef@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-cybersecurity/faculty/mahmound-yousef/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Xiaodong</first>
+        <last>Yue</last>
+      </name>
+      <title>	Professor, GPEN, GWAPT, Chair</title>
+      <contact>
+        <phone>660-543-4930</phone>
+        <office>WCM 222C</office>
+        <email>yue@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-cybersecurity/faculty/xiaodong-yue/index.php</link>
+    </person>
+    <person>
+      <name>
+        <title>Dr.</title>
+        <first>Zhiguo</first>
+        <last>Zhou</last>
+      </name>
+      <title>	Assistant Professor</title>
+      <contact>
+        <phone>660-543-4507</phone>
+        <office>WCM 116F</office>
+        <email>zzhou@ucmo.edu</email>
+      </contact>
+      <link>https://www.ucmo.edu/college-of-health-science-and-technology/school-of-computer-science-and-mathematics/computer-science-and-software-engineering/faculty/zhiguo-zhou/index.php</link>
+    </person>
+  </faculty>
+</document>
